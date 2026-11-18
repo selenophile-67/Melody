@@ -1,8 +1,8 @@
 # 🎵 Melody — Every Mood Has a Melody
 
-**Melody** is a modern, full-stack music streaming web application designed to deliver a personalized and immersive music-listening experience. Discover music, explore artists and albums, create playlists, manage your library, and enjoy synchronized listening sessions with friends — all through a sleek, responsive interface.
+**Melody** is a modern, full-stack music streaming web application designed to deliver a personalized and immersive music-listening experience. Discover music, explore artists and albums, create playlists, manage your library and enjoy synchronized listening sessions with friends — all through a sleek, responsive interface.
 
-Built with **React, TypeScript, Vite, Express, MongoDB, and WebSockets**, Melody combines music discovery, personalization, and interactive playback in one platform.
+Built with **React, TypeScript, Vite, Express, MongoDB, and WebSockets**, Melody combines music discovery, personalization and interactive playback in one platform.
 
 ---
 
@@ -20,7 +20,7 @@ Built with **React, TypeScript, Vite, Express, MongoDB, and WebSockets**, Melody
 - Explore music across multiple genres.
 - Discover tracks based on moods.
 - Browse regional and international music.
-- Search for songs, artists, albums, and playlists.
+- Search for songs, artists, albums and playlists.
 - Live search suggestions.
 - Trending searches and search history.
 
@@ -36,7 +36,7 @@ Built with **React, TypeScript, Vite, Express, MongoDB, and WebSockets**, Melody
 - Configurable crossfade transitions.
 - Sleep timer.
 - Lyrics panel with synchronized lyrics where available.
-- Queue management with reorder, remove, and play-next options.
+- Queue management with reorder, remove and play-next options.
 - Keyboard shortcuts for convenient playback control.
 
 ### 📚 Personal Music Library
@@ -80,7 +80,7 @@ Built with **React, TypeScript, Vite, Express, MongoDB, and WebSockets**, Melody
 - Responsive design for different screen sizes.
 - Smooth animations and transitions.
 - Interactive music cards and artwork.
-- Dedicated pages for artists, albums, playlists, and tracks.
+- Dedicated pages for artists, albums, playlists and tracks.
 - Modern navigation and persistent music player.
 
 ---
@@ -458,7 +458,7 @@ Melody includes dedicated pages for:
 - Environment variables are used for private configuration.
 - User-specific data is associated with authenticated accounts.
 
-Never commit database credentials, private API keys, or production secrets to the repository.
+Never commit database credentials, private API keys or production secrets to the repository.
 
 ---
 
@@ -482,7 +482,7 @@ Potential areas for future development include:
 
 - The bundled catalogue contains sample/demo music metadata and artwork.
 - The audio synthesizer provides generated demo audio; it should not be mistaken for a licensed commercial music catalogue.
-- Use properly licensed recordings, artwork, and lyrics before making the platform publicly available.
+- Use properly licensed recordings, artwork and lyrics before making the platform publicly available.
 - Google Sign-In requires valid OAuth configuration.
 - MongoDB persistence requires a valid database connection.
 - Local JSON persistence is intended as a fallback, not a replacement for a production database.
@@ -491,7 +491,7 @@ Potential areas for future development include:
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and improvements are welcome!
+Contributions, suggestions and improvements are welcome!
 
 1. Fork this repository.
 2. Create a feature branch:
@@ -526,7 +526,7 @@ No license has been specified for this repository yet. All rights are reserved b
 
 Melody is built with the help of the open-source ecosystem and the technologies that make modern web development possible.
 
-Special thanks to the developers and communities behind React, TypeScript, Vite, Express, MongoDB, Tailwind CSS, and the other tools used in this project.
+Special thanks to the developers and communities behind React, TypeScript, Vite, Express, MongoDB, Tailwind CSS and the other tools used in this project.
 
 ---
 
